@@ -1,8 +1,9 @@
 # myMBTI
 
-## 배포 링크
+### 배포 링크
+### https://dekoms.github.io/myMBTI/
 
-## https://dekoms.github.io/myMBTI/
+<br/>
 
 - 코드리뷰
   > 1.  삼항 연산자 연산 기준 값을 1(value)로 정하기
