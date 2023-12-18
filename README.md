@@ -1,5 +1,7 @@
 # myMBTI
 
+## 배포 링크
+
 ## https://dekoms.github.io/myMBTI/
 
 - 코드리뷰
